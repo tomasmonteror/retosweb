@@ -3,7 +3,7 @@
 Para instalar los retos hay que clonar el repositorio y construir todos los contenedores.
 
 ```bash
-git clone https://github.com/aramosf/retosweb
+git clone https://github.com/tomasmonteror/retosweb
 cd retosweb
 bash buildall.sh
 ```
