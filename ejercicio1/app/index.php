@@ -35,7 +35,7 @@
         </nav>
       </div>
       <div class="jumbotron">
-	<h1>Búsca con estilo, que la primera es fácil.</h1><br />
+	<h1>Busca con estilo, que la primera es fácil.</h1><br />
 	<!-- No está en los comentarios, pero casi -->
 
 
